@@ -6,7 +6,7 @@ Esta atividade ponderada tem como objetivo demonstrar, por meio do Cisco Packet 
 
 Os dois cenários utilizam a mesma topologia física — três PCs interconectados por cabos par trançado — diferindo apenas no equipamento central: no primeiro, um Hub; no segundo, um Switch.
 
-> [Vídeo demonstrativo]()
+> [Vídeo demonstrativo](https://docs.google.com/videos/d/16OPsmwkfO3E7nYTmG0-2PXcvO5hcVAM0jSX1snYFcIY/edit?usp=sharing)
 
 ## 2. PARTE 1 — Rede com HUB e Análise de Propagação do Sinal
 
